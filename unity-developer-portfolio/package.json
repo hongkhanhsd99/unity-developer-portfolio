@@ -2,7 +2,7 @@
   "name": "unity-developer-portfolio",
   "version": "0.1.0",
   "private": true,
-    "homepage": "https://hongkhanhsd99.github.io/unity-developer-portfolio",
+  "homepage": "https://hongkhanhsd99.github.io/unity-developer-portfolio",
   "dependencies": {
     "cra-template": "1.2.0",
     "react": "^19.0.0",
@@ -34,6 +34,10 @@
       "last 1 firefox version",
       "last 1 safari version"
     ]
+  },
+  "devDependencies": {
+    "autoprefixer": "^10.4.20",
+    "postcss": "^8.5.2",
+    "tailwindcss": "^4.0.6"
   }
 }
-
