@@ -1,5 +1,5 @@
 import React, { useState } from 'react';
-import { Github, Linkedin, Mail, ExternalLink, Youtube, Facebook,Phone } from 'lucide-react';
+import { Github, Mail, ExternalLink, Facebook,Phone } from 'lucide-react';
 
 const Portfolio = () => {
   const [activeTab, setActiveTab] = useState('projects');
