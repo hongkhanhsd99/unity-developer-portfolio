@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/unity-developer-portfolio/static/css/main.cf890fdb.css",
+    "main.js": "/unity-developer-portfolio/static/js/main.a6863703.js",
+    "static/js/453.073582b0.chunk.js": "/unity-developer-portfolio/static/js/453.073582b0.chunk.js",
+    "index.html": "/unity-developer-portfolio/index.html",
+    "main.cf890fdb.css.map": "/unity-developer-portfolio/static/css/main.cf890fdb.css.map",
+    "main.a6863703.js.map": "/unity-developer-portfolio/static/js/main.a6863703.js.map",
+    "453.073582b0.chunk.js.map": "/unity-developer-portfolio/static/js/453.073582b0.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.cf890fdb.css",
+    "static/js/main.a6863703.js"
+  ]
+}
