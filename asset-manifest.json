@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/unity-developer-portfolio/static/css/main.609814c6.css",
-    "main.js": "/unity-developer-portfolio/static/js/main.e2d66745.js",
-    "static/js/453.073582b0.chunk.js": "/unity-developer-portfolio/static/js/453.073582b0.chunk.js",
-    "index.html": "/unity-developer-portfolio/index.html",
-    "main.609814c6.css.map": "/unity-developer-portfolio/static/css/main.609814c6.css.map",
-    "main.e2d66745.js.map": "/unity-developer-portfolio/static/js/main.e2d66745.js.map",
-    "453.073582b0.chunk.js.map": "/unity-developer-portfolio/static/js/453.073582b0.chunk.js.map"
+    "main.css": "/unity-developer-cv/static/css/main.609814c6.css",
+    "main.js": "/unity-developer-cv/static/js/main.4c1ee60f.js",
+    "static/js/453.a7f163cc.chunk.js": "/unity-developer-cv/static/js/453.a7f163cc.chunk.js",
+    "index.html": "/unity-developer-cv/index.html",
+    "main.609814c6.css.map": "/unity-developer-cv/static/css/main.609814c6.css.map",
+    "main.4c1ee60f.js.map": "/unity-developer-cv/static/js/main.4c1ee60f.js.map",
+    "453.a7f163cc.chunk.js.map": "/unity-developer-cv/static/js/453.a7f163cc.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.609814c6.css",
-    "static/js/main.e2d66745.js"
+    "static/js/main.4c1ee60f.js"
   ]
 }
